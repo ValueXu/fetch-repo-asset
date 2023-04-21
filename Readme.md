@@ -6,7 +6,7 @@ This repository provides bash scripts to download github repository release asse
 
 Bash installed. It means it can only be used on bash supported system by now.
 
-Api version these scripts using is 2022-11-28
+Api version these scripts using is 2022-11-28. Includes mainly theses: [get release](https://docs.github.com/en/rest/releases/releases?apiVersion=2022-11-28#get-a-release-by-tag-name), [get asset](https://docs.github.com/en/rest/releases/assets?apiVersion=2022-11-28#get-a-release-asset).
 
 Accessbility of your account to the repository you want to download.
 
